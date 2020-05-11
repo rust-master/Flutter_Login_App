@@ -1,8 +1,8 @@
 # flutterloginapp
 
-A new Flutter application.
+<b>A new Flutter application.<b>
+<img src="fl.png"  width="690" height="250" >
 
-<img src="flutterAppUI.jpeg" width="330" height="500" >
 
 ## Getting Started
 
