@@ -1,12 +1,12 @@
-# flutterloginapp
+# Flutter Login App UI
 
-<b>A new Flutter application.<b>
+<b>Flutter Login Application<b>
 <img src="fl.png"  width="1000" height="250" >
 <img src="flutterAppUI.jpeg"  width="310" height="500" >
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter development.
 
 A few resources to get you started if this is your first Flutter project:
 
